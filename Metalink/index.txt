@@ -1,45 +1,6 @@
 Metalink - Discover rate collection or Arts & NFTs
 
 This is a NFT html template made by codewithsadee
-
-
-
-#---------- HEADER ----------#
-
-alt = Metalink home
-
-Home
-Explore
-Wallet
-About Us
-Contact
-
-aria-label = wallet
-<ion-icon name="wallet-outline"></ion-icon>
-
-aria-label = Metalink account: Fiona doe
-
-alt = Fiona doe
-
-aria-label = menu toggle
-
-<ion-icon name="menu-outline" aria-hidden="true" class="default-icon"></ion-icon>
-
-<ion-icon name="close-outline" aria-hidden="true" class="active-icon"></ion-icon>
-
-
-
-#---------- HERO ----------#
-
-Discover rate
-collection or Arts & NFTs
-
-We are a huge marketplace dedicated to connecting great artists of all Metalink with their fans and unique token collectors!
-
-Explore now
-
-
-
 #---------- TOP COLLECTION ----------#
 
 Top Collections
